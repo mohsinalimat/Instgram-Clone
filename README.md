@@ -8,9 +8,9 @@ Live Instgram example is made.
 
 At Login Page
 
-![alt text](ss1.png)
+![alt text](ss2.png)
 
 
 At Camera Page
 
-![alt text](ss2.png)
+![alt text](ss1.png)
